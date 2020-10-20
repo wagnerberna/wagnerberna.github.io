@@ -7,6 +7,7 @@ body {
 }
 #tituloNome {
     font-family: fantasy, sans-serif;
+    text-align: center;
 }
 .paragrafoDescricao {
     font-family: helvetica, sans-serif;
@@ -18,17 +19,30 @@ body {
 }
 .listaItem01 {
     font-size: 28px;
+    font-weight: 700;
+    text-decoration: underline;
+
 }
 .listaItem02 {
     font-size: 24px;
 }
 .listaItem03 {
     font-size: 20px;
+    font-weight: 700;
 }
 .imagens {
     width: 700px;
     border-radius: 100%;
+    padding: 30px 30px;
+    background-color: #343a40;
+    float: left;
 }
+#imagemPerfil {
+        
+}
+#apresentacao {
+
+    }
 .botao {
     color: #080c08;
     background-color: #F3F3F6;
@@ -37,8 +51,6 @@ body {
     padding: 20px 35px;
     border-radius: 10px;
 }
-#apresentacao {
-    
-}
+
 
 
