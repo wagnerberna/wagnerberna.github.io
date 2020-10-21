@@ -5,10 +5,22 @@ body {
     font-family: sans-serif;
     font-size: 20px;
 }
-#tituloNome {
+.tituloNome {
     font-family: fantasy, sans-serif;
     text-align: center;
 }
+.perfil {
+    display: inline-block;        
+}
+.perfilImagem {
+        
+}
+.perfilDescricao {
+    vertical-align: middle;
+    }
+
+\\Classes sem DIV:
+
 .paragrafoDescricao {
     font-family: helvetica, sans-serif;
     font-size: 20px;
@@ -37,12 +49,6 @@ body {
     background-color: #343a40;
     float: left;
 }
-#imagemPerfil {
-        
-}
-#apresentacao {
-
-    }
 .botao {
     color: #080c08;
     background-color: #F3F3F6;
